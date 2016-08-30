@@ -4,3 +4,5 @@ git add					添加文件
 
 git commit				提交文件
 
+git status				查看版本库状态
+
